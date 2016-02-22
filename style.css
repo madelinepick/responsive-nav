@@ -26,7 +26,7 @@
 a{
   background: #90C3D4;
   text-align: center;
-  padding: 15px 0;
+  padding: 10px 0;
   border: 1px solid white;
   text-decoration: none;
   color: #222;
@@ -38,9 +38,8 @@ a{
   display: block;
 }
 .desktop a{
-    width: 24.5%;
+    width: 19%;
     float: left;
-    /*border-right: 1px solid #ddd;*/
   }
 
 @media screen and (max-width: 500px){
